@@ -5,9 +5,9 @@
     <session-factory>
         <!-- JDBC Database connection settings -->
         <property name="connection.driver_class">org.postgresql.Driver</property>
-        <property name="connection.url">jdbc:postgresql://ep-wispy-boat-625756.us-west-2.aws.neon.tech/neondb</property>
-        <property name="connection.username">nara.kim1011</property>
-        <property name="connection.password">ziWp5fR1UbSk</property>
+        <property name="connection.url">jdbc:postgresql://</property>
+        <property name="connection.username"></property>
+        <property name="connection.password"></property>
         <!-- JDBC connection pool settings ... using built-in test pool -->
         <property name="connection.pool_size">1</property>
         <!-- Select our SQL dialect -->
